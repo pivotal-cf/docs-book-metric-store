@@ -18,7 +18,7 @@ sections:
     name: pivotal-cf/docs-metric-store
     ref: '1.0'
   directory: metric-store/1-0
-  subnav_template: metric-store_1_0_subnav.erb
+  subnav_template: metric_store_1_0_subnav.erb
   product_info:
     use_local_header: true
     latest_stable_version: 1.0
