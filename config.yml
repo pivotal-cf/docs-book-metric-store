@@ -17,7 +17,7 @@ sections:
 - repository:
     name: pivotal-cf/docs-metric-store
     ref: '0.2'
-  directory: metric-store/0_2
+  directory: metric-store/0-2
   subnav_template: metric_store_0_2_subnav.erb
   product_info:
     use_local_header: true
@@ -25,6 +25,6 @@ sections:
     local_header_img: /images/cloud_rings.png
     local_header_title: PCF Metric Store
     search_placeholder: Search PCF Metric Store
-    url_prefix: metric-store/0_2
+    url_prefix: metric-store/0-2
     local_product_version: 0.2
     local_header_links: []
