@@ -2,6 +2,7 @@
 template_variables:
   book_title: Pivotal Documentation
   book_title_short: Pivotal Docs
+  domain_name: pivotal.io
   title: <span class="title-deemph">Pivotal</span> Documentation
   hero_text: "Detailed documentation to help you install, understand, and succeed with Pivotal's enterprise-grade software."
   product_full: Elastic Runtime
