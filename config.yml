@@ -27,4 +27,5 @@ sections:
     search_placeholder: Search PCF Metric Store
     url_prefix: metric-store/0-2
     local_product_version: 0.2
-    local_header_links: []
+    local_header_links:
+        - <a href="https://network.pivotal.io/products/p-metric-store">Download</a>
