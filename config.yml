@@ -2,7 +2,6 @@
 book_repo: pivotal-cf/docs-book-metric-store
 layout_repo: pivotal-cf/docs-layout-repo
 layout_repo_ref: 'master'
-layout_repo_ref: 'edge'
 
 feedback_enabled: true
 
@@ -17,16 +16,16 @@ sections:
 
 - repository:
     name: pivotal-cf/docs-metric-store
-    ref: 'master'
-  directory: metric-store/0-4
-  subnav_template: metric_store_0_4_subnav.erb
+    ref: '0.2'
+  directory: metric-store/0-2
+  subnav_template: metric_store_0_2_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: 0.4
+    latest_stable_version: 0.2
     local_header_img: /images/cloud_rings.png
     local_header_title: Metric Store for PCF
     search_placeholder: Search Metric Store for PCF
     url_prefix: metric-store/0-2
-    local_product_version: 0.4
+    local_product_version: 0.2
     local_header_links:
         - <a href="https://network.pivotal.io/products/p-metric-store">Download</a>
