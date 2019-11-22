@@ -29,6 +29,3 @@ sections:
     local_product_version: 0.2
     local_header_links:
         - <a href="https://network.pivotal.io/products/p-metric-store">Download</a>
-    local_header_version_list:
-      - url_prefix: http://docs.pivotal.io/metric-store/0-2
-        display_name: v0.2
