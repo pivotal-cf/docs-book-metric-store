@@ -30,7 +30,7 @@ sections:
     local_header_links:
         - <a href="https://network.pivotal.io/products/p-metric-store">Download</a>
     local_header_version_list:
-      - url_prefix: https://docs.pivotal.io/metric-store/0-3/
+      - url_prefix: https://docs.pivotal.io/metric-store/0-3
         display_name: v0.3
 
 - repository:
@@ -40,7 +40,7 @@ sections:
   subnav_template: metric_store_0_3_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: 0.
+    latest_stable_version: 0.3
     local_header_img: /images/cloud_rings.png
     local_header_title: Metric Store for PCF
     search_placeholder: Search Metric Store for PCF
@@ -49,5 +49,5 @@ sections:
     local_header_links:
         - <a href="https://network.pivotal.io/products/p-metric-store">Download</a>
     local_header_version_list:
-      - url_prefix: https://docs.pivotal.io/metric-store/0-2/
+      - url_prefix: https://docs.pivotal.io/metric-store/0-2
         display_name: v0.2
