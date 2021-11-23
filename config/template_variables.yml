@@ -8,7 +8,7 @@ template_variables:
   product_full: Elastic Runtime
   product_short: Elastic Runtime
   product_name: PCF
-  product_abbr: 
+  product_abbr:
   product_url: https://network.pivotal.io/products/pivotal-cf
   product_link: <div class="header-item"><a href="https://network.pivotal.io/products/pivotal-cf">Back to Product Page</a></div>
   support_link: <a href="http://support.pivotal.io" target="_blank">Support</a>
