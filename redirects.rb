@@ -5,7 +5,7 @@ r301 %r{.*}, 'https://docs.pivotal.io$&', :if => Proc.new { |rack_env|
 
 # Redirects for docs-book-metric-store
 
-r301 %r{/metric-store/(?![\d-]+)(.*)}, "/metric-store/1-5/$1"
+r301 %r{/metric-store/(?![\d-]+)(.*)}, "/metric-store/1.5/$1"
 
 # Redirect from docs.pivotal.io/metric-store/1-3 to docs.vmware.com Metric Store docs
 r301  %r{/metric-store/1-3/(.*)}, "https://docs.vmware.com/en/Metric-Store/1.3/metric-store/GUID-$1"
