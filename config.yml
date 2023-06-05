@@ -16,7 +16,7 @@ sections:
 
 - repository:
     name: pivotal-cf/docs-metric-store
-    ref: 'master'
+    ref: 'main'
   directory: metric-store/1-6
   subnav_template: metric_store_1_6_subnav.erb
   product_info:
