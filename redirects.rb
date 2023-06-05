@@ -21,3 +21,7 @@ r301  %r{/metric-store/1-4}, "https://docs.vmware.com/en/Metric-Store/1.4/metric
 r301  %r{/metric-store/1-5/(.*)}, "https://docs.vmware.com/en/Metric-Store/1.5/metric-store/GUID-$1"
 r301  %r{/metric-store/1-5/}, "https://docs.vmware.com/en/Metric-Store/1.5/metric-store/GUID-index.html"
 r301  %r{/metric-store/1-5}, "https://docs.vmware.com/en/Metric-Store/1.5/metric-store/GUID-index.html"
+
+# Redirect from unsupported Metric Store docs to docs.vmware.com PDFs
+r301  %r{/metric-store/0-2}, "https://docs.vmware.com/en/Metric-Store/0.2/metric-store-0-2.pdf"
+r301  %r{/metric-store/0-3}, "https://docs.vmware.com/en/Metric-Store/0.3/metric-store-0-3.pdf"
